@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "shazzy_123.aternos.me:62972",
+    "ip": "shazzy_123.aternos.me",
     "port": 62972,
     "version": "",
     "try-creative": false
