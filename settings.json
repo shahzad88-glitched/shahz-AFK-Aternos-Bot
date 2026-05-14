@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "shazzy_123.aternos.me",
+    "ip": "jackfish.aternos.host:62972",
     "port": 62972,
     "version": "",
     "try-creative": false
